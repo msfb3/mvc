@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4278cd-e422-4f54-90f9-1a251309592c" name="Changes" comment="Add Logic" />
+    <list default="true" id="dc4278cd-e422-4f54-90f9-1a251309592c" name="Changes" comment="Add Logic">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticketautomaten" beforeDir="false" afterPath="$PROJECT_DIR$/../ticketautomaten" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
